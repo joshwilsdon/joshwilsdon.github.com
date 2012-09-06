@@ -1,5 +1,5 @@
 destination: ./_site
-source:      ./_src
+source:      ./
 safe:        true
 auto:        false
 lsi:         false
