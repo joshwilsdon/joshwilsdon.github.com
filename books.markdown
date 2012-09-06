@@ -7,6 +7,7 @@ title: Josh Wilsdon's Book Page
 
  * Douglas Crockford - "Javascript: The Good Parts" (very slowly)
  * Richard McDougall and Jim Mauro - "Solaris Internals 2nd Ed." (very slowly)
+ * Kim Stanley Robinson - "2312"
 
 ## In the queue (and I've got a copy):
 
@@ -14,6 +15,7 @@ title: Josh Wilsdon's Book Page
 
 ## Last 10 books:
 
+ * Iain M Banks - "Look to Windward" <!-- completed: 2012-08-?? -->
  * Stephen Baxter - "Evolution" <!-- completed: 2012-06-27 -->
  * David Anthony Durham - "Sacred Band" <!-- completed 2012-04-?? -->
  * Charles Stross - "Rule 34" <!-- completed 2012-03-12 -->
@@ -23,14 +25,13 @@ title: Josh Wilsdon's Book Page
  * Vernor Vinge - "A Deepness in the Sky" <!-- last completed: 2011-11-13 -->
  * Daniel Suarez - "Freedom" <!-- completed: 2011-10-19 -->
  * Daniel Suarez - "Daemon" <!-- completed: 2011-10-12 -->
- * Ben Bova - "The Silent War" <!-- completed: 2011-09-29 -->
 
 ## Other books I've read (alphabetical by author's name)
 
 NOTE: I'm going to update this list with books as I think of / remember them.
 
  * Paolo Bacigalupi - "The Windup Girl" <!-- completed: 2010-06-18 -->
- * Ian M Banks - "Consider Phlebas" <!-- completed: 2010-11-04 -->
+ * Iain M Banks - "Consider Phlebas" <!-- completed: 2010-11-04 -->
  * Stephen Baxter - "Ark" <!-- completed: 2011-09-xx -->
  * Stephen Baxter - "Coalescent"
  * Stephen Baxter - "Flood" <!-- completed: 2011-08-xx -->
@@ -38,6 +39,7 @@ NOTE: I'm going to update this list with books as I think of / remember them.
  * Stephen Baxter - "Manifold Time"  <!-- completed: 2002-07-xx -->
  * Stephen Baxter - "Moonseed"
  * Greg Bear - "Darwin's Radio"
+ * Ben Bova - "The Silent War" <!-- completed: 2011-09-29 -->
  * Ray Bradbury - "Fahrenheit 451"
  * David Brin - "Earth"  <!-- completed: 2004-05-xx -->
  * David Brin - "Kiln People"
