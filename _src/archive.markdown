@@ -1,0 +1,13 @@
+---
+layout: default
+title: Josh Wilsdon (archive)
+---
+
+<div class="post">
+  <h1>Archive ({{ site.posts | size }} posts)</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

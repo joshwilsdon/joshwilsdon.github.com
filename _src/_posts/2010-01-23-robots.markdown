@@ -1,0 +1,33 @@
+---
+layout: post
+title: Robots!
+summary: Wherein I discuss my robot plan.
+tags: [robots, bob]
+---
+
+<div class="floatyimg"><img src="/images/r2d2.jpg" title="R2D2" alt="R2D2" /></div>
+Since I was a kid I've wanted to build my own robots.  While I've built simple machines with motors none of them have had enough complexity to really meet my definition of a robot.  As technology advances, making robots that do complex things is getting easier all the time.  Maybe I could just wait it out and 10 years from now buy $10 worth of parts to put together to make a robot with human-analog intelligence, but I figure if I get started building robots now, I'll be able to build even cooler robots by then.  Since robots are going to be taking over anyway, I might as well get on their good side as soon as possible.
+
+For my first robot, I'm planning to use an Atmel ATmega328 microcontroller in the form of an Arduino Duemilanove (which I already have) and some full rotation servos (which I'm going to order) to drive it.  I'll add some sensors and then work on upgrading it to do more complex stuff.  My initial goals for this project are:
+
+### Phase 1
+
+ * build the basic drive mechanism (I'm planning just to attach wheels to the servos for now) and platform
+ * have the robot drive forward and stop before running into something
+
+### Phase 2
+
+ * add steering
+ * add Xbee radio so I can control the robot remotely
+
+### Ideas for future enhancement
+
+ * add a camera
+ * have the robot drive itself autonomously
+ * add sensors to avoid obstacles
+ * add an arm to manipulate the environment
+ * upgrade to a more powerful microcontroller
+
+I'm sure my ideas of what will work best will change soon after I get started, and I'll come up with new ideas for what to make it do in the future.  As my work on this progresses, I'll post updates here!
+
+P.S. I've also created [a scoreboard page](/scoreboard) to keep track of the status of the [Project 52](http://project52.info/) challenge.  This shows that [Kevin](http://yinkei.com/) already [owes Howie and I lunch for a week](http://yinkei.com/2010/01/the-start-of-a-new-year.)  I feel like steak!
