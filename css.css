@@ -11,6 +11,15 @@ body,html {
   padding:0;
 }
 
+pre {
+  border:1px dashed #E1E1E1;
+  color:#333344;
+  background:#FAFAFA;
+  font-family:monospace;
+  overflow:auto;
+  padding:0.5em;
+}
+
 a {
   color:#0063af;
   text-decoration:none;
