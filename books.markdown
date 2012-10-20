@@ -52,12 +52,17 @@ NOTE: I'm going to update this list with books as I think of / remember them.
  * Arthur C. Clarke - "Rama II"
  * Arthur C. Clarke - "Rama Revealed"
  * Arthur C. Clarke - "Rendezvous with Rama"
+ * James Clavell - "Shogun"
  * Timothy Lister & Tom DeMarco - "Waltzing with Bears" <!-- completed: 2003-09-xx -->
  * Cory Doctorow - "Little Brother"
  * Cory Doctorow - "Overclocked"
+ * Michael Crichton - "The Andromeda Strain"
+ * Michael Crichton - "The Lost World"
+ * Michael Crichton - "Jurassic Park"
  * David Anthony Durham - "Acacia" <!-- completed: 2010-02-02 -->
  * David Anthony Durham - "The Other Lands" <!-- completed: 2010-10-14 -->
  * Christopher Duncan - "The Career Programmer" <!-- completed: 2003-09-xx -->
+ * Jostein Gaarder - "Sophie's World"
  * William Gibson - "Neuromancer" <!-- completed: 2002-10-xx -->
  * Kathleen Ann Goodman - "Crescent City Rhapsody" <!-- completed: 2002-08-xx -->
  * Joe Haldeman - "The Accidental Time Machine"
@@ -76,8 +81,10 @@ NOTE: I'm going to update this list with books as I think of / remember them.
  * Hermann Hesse - Narcissus and Goldmund
  * Hermann Hesse - Siddhartha
  * Hermann Hesse - Steppenwolf
+ * Aldous Huxley - "Brave New World"
  * Matthew Jarpe - "Radio Freefall" <!-- completed: 2010-04-01 -->
  * Tracy Kidder - "The Soul of A New Machine" <!-- completed: 2011-04-xx -->
+ * Harper Lee - "To Kill a Mockingbird"
  * Cormac McCarthy - "The Road"
  * Jack McDevitt - "Cauldron" <!-- completed: 2010-03-23 -->
  * Jack McDevitt - "Odyssey" <!-- completed: 2010-04-11 -->
